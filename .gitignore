@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ss]ysinfo/
+
+# Visual Studio / VSCode
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.user
+*.userprefs
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash Reports
+*.stacktrace
+
+# Generated files
+sysinfo.txt
+
+# Addressables
+[Bb]uild/[Aa]ddressables/
